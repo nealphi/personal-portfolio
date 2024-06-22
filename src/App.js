@@ -4,9 +4,9 @@ import { Button, Stack } from 'react-bootstrap';
 
 function App() {
   return (
-<Stack>
+<div>
   
-</Stack>
+</div>
   );
 }
 
